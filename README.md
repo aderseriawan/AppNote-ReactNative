@@ -9,4 +9,4 @@ No.Absen : 01 <br>
 ![Screenshot_2022-12-22-19-54-36-653_host exp exponent](https://user-images.githubusercontent.com/19799218/209139768-bb6e4f0b-2cda-487f-ac10-ca0ae92afe37.jpg)
 ![Screenshot_2022-12-22-19-55-04-125_host exp exponent](https://user-images.githubusercontent.com/19799218/209139889-8a4d2580-261d-4edf-b283-cc174acfc9f2.jpg)
 
-<img url="https://user-images.githubusercontent.com/19799218/209140183-2709fe09-0651-4568-b35a-9364913a22f1.jpg" widht="400px"/>
+<img url="https://user-images.githubusercontent.com/19799218/209140183-2709fe09-0651-4568-b35a-9364913a22f1.jpg" widht="20px"/>
